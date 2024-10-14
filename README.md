@@ -39,7 +39,8 @@
 -Attended multiple hackathon.
 
 ## 🤝 Let's Connect
--LinkedIn: linkedin.com/in/shantanu-mangalkar-3825b42a7
+-LinkedIn:
+linkedin.com/in/shantanu-mangalkar-3825b42a7
 
 Feel free to check out my repositories and let's collaborate on exciting projects! 🚀
 
