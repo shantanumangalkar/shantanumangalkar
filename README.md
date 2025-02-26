@@ -22,15 +22,13 @@
 
 -Frameworks & Libraries: React, Node.js.
 
--Database: MongoDB.
-
 -Tools & Platforms: Git, GitHub, VS Code.
 
 ## 🌟Experience
 
--SIH 2024: Developing 'INSPIRO,' an AI-driven Inspection System for Institutions.
+-Technex Web Developer: Contributed as a web developer for Technex, my college’s flagship technical fest, designing and optimizing its official website to ensure a smooth and engaging user experience.
 
--Hacknation Leader: Leading teams and collaborating on projects to win hackathons.
+-Hackathon Achievements: A recognized hackathon winner, demonstrating strong problem-solving abilities and the capacity to develop innovative digital solutions under time constraints.
 
 -Computer Society of India (CSI) Member: Engaged in collaborative projects, networking with industry professionals, and enhancing technical skills.
 
